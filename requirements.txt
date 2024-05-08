@@ -1,0 +1,8 @@
+pandas
+folium
+folium.plugins
+plotly.express
+random
+requests
+haversine
+geopy
