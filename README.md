@@ -1,4 +1,4 @@
-# DESAFIO CIENTISTA DADOS GEO PECSMART
+# DESAFIO CIENTISTA DE DADOS GEO PECSMART
 
 ### Descrição do Problema:
 Você foi contratado para atuar como cientista de dados geoespaciais e auxiliar no desenvolvimento de um sistema de otimização de calendário e rotas de envio de ração da fábrica para granjas produtoras de aves em uma determinada região de Santa Catarina. Tanto as granjas como a fabrica de ração serão equipadas com sensores IOT coletando informação sobre o estoque de ração, com atualizações diárias. Os dados atualizados serão disponibilizados diariamente para serem consumidos pelo algoritmo de roteirização, em formato parecido ao exemplo anexo ao desafio dados_desafio_rotas.xlsx.
